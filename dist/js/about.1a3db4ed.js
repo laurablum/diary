@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdiary_app"]=self["webpackChunkdiary_app"]||[]).push([[443],{4335:function(a,n,r){r.r(n),r.d(n,{default:function(){return d}});var u=r(3396);const t={class:"about"},e=(0,u._)("h1",null,"This is an about page",-1),s=[e];function i(a,n){return(0,u.wg)(),(0,u.iD)("div",t,s)}var c=r(89);const p={},o=(0,c.Z)(p,[["render",i]]);var d=o}}]);
+//# sourceMappingURL=about.1a3db4ed.js.map
